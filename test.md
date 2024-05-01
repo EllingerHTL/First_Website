@@ -1,26 +1,26 @@
-WG-Site
-Vorschlag für die „WG-Site“
-Einleitung:
-Die „WG-Site“ ist eine Webanwendung, die als Vorgeschmack auf eine spätere produzierte App dient. Die App zielt darauf ab, eine gemeinsame Plattform für WG-Bewohner zu bieten, auf der sie wichtige Informationen sammeln und austauschen können. Die Hauptzielgruppe sind junge WG-Bewohner, die eine individualisierbare App für ihre Bedürfnisse wünschen. Die Webseite soll die Grundidee der App widerspiegeln und mit einfachen Tools ausgestattet werden. Diese Tools beinhalten zunächst nur Eingabefelder und Infotexte. Die Hauptthemen umfassen eine Einkaufsliste, einen Putzplan, eine To-Do-Liste, einen Essensplan, eine Unterseite für aktuelle und abgeschlossene Projekte, Informationen zur Pflanzenpflege, Home-Workout-Aktivitäten und einfache Rezepte. Die Webseite ermöglicht es den WG-Partnern, stets über den aktuellen Stand der Einkaufsliste informiert zu sein, ausstehende Aufgaben zu überprüfen, relevante Informationen für das WG-Leben zu finden und eigene To-Dos zu speichern, um eine wöchentliche Planung zu erleichtern.
+Proposal für „WG-Site“
 
-Grundkonzept:
-Die „WG-Site“ ermöglicht das Erstellen und Bearbeiten verschiedener Listen, das Finden und Umsetzen von Sportideen, das Sammeln und Hinzufügen von Rezepten, das Erlernen der Pflege von Zimmerpflanzen sowie das Verwalten und Dokumentieren eigener Projekte. Zudem bietet sie die Möglichkeit, alte Projekte nachzulesen, um sich zu motivieren oder bereits erledigte Informationen zu überprüfen.
 
-Seiten:
-Landing Page:
-Mit einer Vorschau der verschiedenen Listen und Links zu den Unterseiten.
-Unterseiten:
-Listen: Um die Listen zu bearbeiten.
-Einkaufsliste
-Putzplan
-To-Do-Liste
-Essensplan
-Projekte
-Pflanzen
-Sport
-Menüs (Essen)
-Moodboard:
-Die Startseite sollte mit den folgenden Farben gestaltet werden:
+•	Einleitung:
+Ich möchte eine Webseite kreieren, die den ersten Eindruck einer später produzierten App darstellt. Bei der App handelt es sich um eine WG Webapp die am PC als auch am Mobilen gerät verwendet werden kann. Die Hauptzielgruppe sind junge WG Bewohner, die in einer App alle wichtigen Informationen gesammelt haben und sich untereinander Infos teilen können. Man sollte die App so gestalten können damit sie auf die eigenen Bedürfnisse zugeschnitten ist. Im ersten Schritt möchte ich eine Webseite erschaffen, die die Grundidee der App spiegelt und mit leichten Tools schmücken. Die ersten Tools sollen nur Input Felder beinhalten und Infotexte. Die Hauptthemen sind: eine Einkaufsliste, ein Putzplan, eine To-Do liste, ein Essensplan, eine Unterseite mit Aktuellen und gemeisterten Projekte, Pflanzen Informationen wie man sie zu pflegen hat, Home-Workout Aktivitäten und einfache Rezepte. So können die WG-Partner immer auf dem neusten Stand sein wie die Einkaufsliste aussieht oder was noch für Aufgaben erledigt werden müssen, können in derselben App nachforschen über Informationen, die im WG leben und für ein gesundes Leben wichtig sind sowie können eigene TO Dos speichern, um sich einen Plan für die Woche zu machen mit einem Blick auf die Webseite. 
+  
+•	Grundkonzept: 
+Man soll verschiedene Listen erstellen und bearbeiten können, man soll Sport Ideen finden und umsetzen können, Man soll eine Sammlung von verschiedenen Rezepten haben und neue hinzufügen können, man kann herausfinden, wie die Hauspflanzen zu pflegen sind und man kann seine eigenen Projekte verwalten, Dokumentieren auf welchem stand man ist und um einen Motivation Boost zu bekommen oder um alte Informationen nachzulesen die alten schon erledigten Projekte nachlesen. 
 
-Skizze:
+•	Seiten:
 
+o	Landing Page (mit preview von den verschiedenen Listen und links zu den Sub-Pages)
+o	Sub-Pages:
+	Listen (um die Listen zu bearbeiten)
+•	Einkaufsliste
+•	Putzplan
+•	To-Do-Liste
+•	Essens Plan
+	Projekte
+	Pflanzen
+	Sport
+	Menüs (Essen)
+
+•	Moodbord: Die startseite sollte mit diesen Farben gestallten werden:  
+
+•	Skizze:  
