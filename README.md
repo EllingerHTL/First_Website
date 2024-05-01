@@ -5,7 +5,7 @@ This Git-Repository is about a Website named "WG-Site", it is a small Website wi
 
 [ScrumPlaning:](ScrumPlaning.md)
 
-[HTML:](
+[HTML:](FirstWebsite2.0.html)
 
-[CSS:](style.css)
+[CSS:](style2.0.css)
  
