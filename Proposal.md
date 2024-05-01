@@ -25,8 +25,8 @@ Man soll verschiedene Listen erstellen und bearbeiten können, man soll Sportide
 ## Moodboard:
 
 Die Startseite sollte mit diesen Farben gestaltet werden:  
-![Moodboard](link_to_picture)
+![Moodboard](moodboard.png)
 
 ## Skizze:
 
-![Skizze](link_to_picture)
+![Skizze](skizze.jpeg)
