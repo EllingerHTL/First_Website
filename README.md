@@ -1,47 +1,7 @@
-# First_Website
-This Repository is for my first Website.
-1.Mini-Proposal
-2.Product-Backlog
-3. Website, css and other files
-
-
-| ID   | Prio | Epic                            | User-Story                                                   | Criteria of Satisfaction                                                                                                   | Effort |
-|------|------|---------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------|
-| 1000 | ?    | Design of FirstPage             | Pictures for the first Page                                  | Find some pictures and decide where to place them on the first page (6-7)                                                  | 2      |
-| 1001 | ?    | Design of FirstPage             | Headlines for the first page                                 | When the headlines and the links to the sub-sites are structured and have a nice first impression                          | 1      |
-| 1002 | ?    | FirstPage                       | Calendar Preview                                              | Where should the calendar be on the first page and how should it look like (without logic)                                  |        |
-| 1003 | ?    | FirstPage                       | ToDoList Preview                                              | Where should the To-Do list be on the first page and how should it look like (without logic)                                 |        |
-| 1004 | ?    | FirstPage                       | Field with generated phrases or jokes or small/random exercises for the day like workout or read a book or IDK          | Where should the "Daily work" be on the first page and how should it work                                                    | 3      |
-| 1005 | ?    | FirstPage                       | Finalize the design of the first page                         | When the first page is finished (without logic)                                                                             |        |
-| 1006 | ?    | Calendar                        | Make a concept for the calendar, how should it look, what features should it have                                         | When a sketch is existing, to know the look of the page and to know the technology, decisions for the different features     |        |
-| 1007 | ?    | Calendar                        | Make the calendar without specific features                   | When a page is existing and the style is good and the possible options are visible (without a logic)                         |        |
-| 1008 | ?    | Calendar                        | Feature 1                                                      |                                                                                                                             |        |
-| 1009 | ?    | Calendar                        | Feature 2                                                      |                                                                                                                             |        |
-| 1010 | ?    | ToDoList                        | Make a concept for the ToDoList, how should it look, what features should it have                                           | When a sketch is existing, to know the look of the page and to know the technology, decisions for the different features   |        |
-| 1011 | ?    | ToDoList                        | Feature 1                                                      |                                                                                                                             |        |
-| 1012 | ?    | ToDoList                        | Feature 2                                                      |                                                                                                                             |        |
-| 1013 | ?    | ToDoList                        | Feature 3                                                      |                                                                                                                             |        |
-| 1014 | ?    | School/Work Items               | Make a concept for the School/Work Items, how should it look, what features should it have                                  | When a sketch is existing, to know the look of the page and to know the technology, decisions for the different features   |        |
-| 1015 | ?    | School/Work Items               | Fortbildungen                                                  | When some ideas are given what "Fortbildungen" are useful. Like an Info Text is existing and an input field to add ideas      |        |
-| 1016 | ?    | School/Work Items               | Wünschenswerte Projekte in der Arbeit, (recherche)            | Infotext for work projects, and an input field to add ideas                                                                |        |
-| 1017 | ?    | School/Work Items               | Wünschenswerte Projekte in der Schule (recherche)             | Infotext for school projects, and an input field to add ideas                                                              |        |
-| 1018 | ?    | School/Work Items               | Pflichtprojekte in der Arbeit/Schule                           | List of existing projects like this website plus input field                                                                |        |
-| 1019 | ?    | School/Work Items               | Gemachte Projekte in Arbeit/Schule                            | List of existing projects like this website plus input field                                                                |        |
-| 1020 | ?    | Food things                     | Design the Page for the food things                           | Sketch of the page                                                                                                          |        |
-| 1021 | ?    | Food things                     | Gemachte Rezepte die gut waren                                | Input field and list                                                                                                        |        |
-| 1022 | ?    | Food things                     | Wünschende Rezepte die gut klingen                            | Input field and list                                                                                                        |        |
-| 1024 | ?    | Food things                     | Ideen für Rezepte                                             | Add an AI to create random recipes or other food ideas                                                                       |        |
-| 1025 | ?    | Food things                     | Kalorienrechner oder so etwas in der Art?                     | Concept for a calorie calculator, is it a good idea                                                                          |        |
-| 1026 | ?    | Plants-Things                   | Design the Page for the Plant-things                          | When a sketch is existing, to know the look of the page, and have some pictures                                               |        |
-| 1027 | ?    | Plants-Things                   | What plants do I have?                                        | Research what plants are important, what my plants are, what cool plants I should add                                         |        |
-| 1028 | ?    | Plants-Things                   | What are the most important things about my plants            |                                                                                                                             |        |
-| 1029 | ?    | Plants-Things                   | Ideas for the "Strebergarten" and wishes                      |                                                                                                                             |        |
-| 1030 | ?    | Plants-Things                   | Ideas for home plants                                         |                                                                                                                             |        |
-| 1031 | ?    | Plants-Things                   | Pictures?                                                      |                                                                                                                             |        |
-| 1032 | ?    | Sport-Things                    | Ideas                                                          |                                                                                                                             |        |
-| 1033 | ?    | Sport-Things                    | Important things to know                                      |                                                                                                                             |        |
-| 1034 | ?    | Own Resume from done work       | Ferialarbeiten, Arbeiten, Ausbildungen, große Projekte, KnowHow                                                           |                                                                                                                             |        |
-| 1035 | ?    | Handwerkliche Projekte/Wohnungsprojekte? | ?                                                            |                                                                                                                             |        |
-| 1036 |      | Useful AI Tools                 | ?                                                              |                                                                                                                             |        |
-| 1037 |      | Plants-Things                   | When hovering over the plant button, plants should grow or something similar                                                 |                                                                                                                             |        |
-
+# WG-Site Read Me:
+This Git-Repository is about a Website named "WG-Site", it is a small Website with some Info Texts and some input options. It should help the regular WG Population in there daily life. Although it should be only a preview of a web-app. Only to show the idea of the App to understand the usecase. 
+[Proposal:](Proposal.md)
+[ScrumPlaning:](ScrumPlaning.md)
+[HTML:](
+[CSS:](style.css)
+ 
